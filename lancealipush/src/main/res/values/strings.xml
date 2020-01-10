@@ -1,0 +1,4 @@
+<resources>
+    <string name="channel_description_patrol">event channel</string>
+    <string name="channel_name_patrol">event</string>
+</resources>

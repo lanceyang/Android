@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-path
+        name="tb_images"
+        path="DCIM" />
+    <external-path
+        name="tb_files"
+        path="Download" />
+    <external-path
+        name="tb_audio"
+        path="tb/audio" />
+    <external-path
+        name="tb_video"
+        path="tb/video" />
+    <external-path
+        name="root"
+        path="/" />
+
+    <external-cache-path
+        name="tb_cache"
+        path="tb" />
+</paths>

@@ -1,0 +1,8 @@
+<resources>
+  <string name="channel_description_patrol">巡检渠道</string>
+  <string name="channel_description_mt">维保渠道</string>
+  <string name="channel_description_repair">维修渠道</string>
+  <string name="channel_name_patrol">巡检工单</string>
+  <string name="channel_name_mt">维保工单</string>
+  <string name="channel_name_repair">维修工单</string>
+</resources>

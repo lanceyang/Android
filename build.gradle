@@ -1,0 +1,40 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+
+buildscript {
+    repositories {
+        google()
+        jcenter()
+        
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:3.4.1'
+        
+        // NOTE: Do not place your application dependencies here; they belong
+        // in the individual module build.gradle files
+    }
+}
+
+allprojects {
+    repositories {
+        google()
+        jcenter()
+        
+    }
+
+    ext {
+        compileSdkVersion = 28
+        buildToolsVersion = "28.0.3"
+        minSdkVersion = 19
+        targetSdkVersion = 28
+        supportLibVersion = '1.0.0-beta01'
+        fastjsonLibVersion = "1.1.68.android"
+
+        BASE_URL = "\"http://192.168.2.34:8080/tbh/\""
+//        BASE_URL = "\"http://192.168.2.109:8080/\""
+//        BASE_URL = "\"http://47.92.105.243/tbh/\""
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}

@@ -1,0 +1,89 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\workspace_react\tb_app_v2\android\Lancelibrary\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from E:\workspace_react\tb_app_v2\android\Lancelibrary\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from E:\workspace_react\tb_app_v2\android\Lancelibrary\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from E:\workspace_react\tb_app_v2\android\Lancelibrary\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from E:\workspace_react\tb_app_v2\android\Lancelibrary\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from E:\workspace_react\tb_app_v2\android\Lancelibrary\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from E:\workspace_react\tb_app_v2\android\Lancelibrary\src\main\AndroidManifest.xml:1:1-27:12
+	package
+		ADDED from E:\workspace_react\tb_app_v2\android\Lancelibrary\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from E:\workspace_react\tb_app_v2\android\Lancelibrary\src\main\AndroidManifest.xml
+		INJECTED from E:\workspace_react\tb_app_v2\android\Lancelibrary\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\workspace_react\tb_app_v2\android\Lancelibrary\src\main\AndroidManifest.xml
+		ADDED from E:\workspace_react\tb_app_v2\android\Lancelibrary\src\main\AndroidManifest.xml:1:1-27:12
+		INJECTED from E:\workspace_react\tb_app_v2\android\Lancelibrary\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\workspace_react\tb_app_v2\android\Lancelibrary\src\main\AndroidManifest.xml:2:5-51
+	android:versionCode
+		INJECTED from E:\workspace_react\tb_app_v2\android\Lancelibrary\src\main\AndroidManifest.xml
+		ADDED from E:\workspace_react\tb_app_v2\android\Lancelibrary\src\main\AndroidManifest.xml:1:1-27:12
+		INJECTED from E:\workspace_react\tb_app_v2\android\Lancelibrary\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\workspace_react\tb_app_v2\android\Lancelibrary\src\main\AndroidManifest.xml:1:11-69
+uses-feature#android.hardware.camera
+ADDED from E:\workspace_react\tb_app_v2\android\Lancelibrary\src\main\AndroidManifest.xml:5:5-60
+	android:name
+		ADDED from E:\workspace_react\tb_app_v2\android\Lancelibrary\src\main\AndroidManifest.xml:5:19-57
+uses-feature#android.hardware.autofocus
+ADDED from E:\workspace_react\tb_app_v2\android\Lancelibrary\src\main\AndroidManifest.xml:6:5-63
+	android:name
+		ADDED from E:\workspace_react\tb_app_v2\android\Lancelibrary\src\main\AndroidManifest.xml:6:19-60
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\workspace_react\tb_app_v2\android\Lancelibrary\src\main\AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from E:\workspace_react\tb_app_v2\android\Lancelibrary\src\main\AndroidManifest.xml:8:22-72
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\workspace_react\tb_app_v2\android\Lancelibrary\src\main\AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from E:\workspace_react\tb_app_v2\android\Lancelibrary\src\main\AndroidManifest.xml:9:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\workspace_react\tb_app_v2\android\Lancelibrary\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from E:\workspace_react\tb_app_v2\android\Lancelibrary\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.CAMERA
+ADDED from E:\workspace_react\tb_app_v2\android\Lancelibrary\src\main\AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from E:\workspace_react\tb_app_v2\android\Lancelibrary\src\main\AndroidManifest.xml:11:22-62
+uses-permission#android.permission.CALL_PHONE
+ADDED from E:\workspace_react\tb_app_v2\android\Lancelibrary\src\main\AndroidManifest.xml:12:5-69
+	android:name
+		ADDED from E:\workspace_react\tb_app_v2\android\Lancelibrary\src\main\AndroidManifest.xml:12:22-66
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from E:\workspace_react\tb_app_v2\android\Lancelibrary\src\main\AndroidManifest.xml:13:5-71
+	android:name
+		ADDED from E:\workspace_react\tb_app_v2\android\Lancelibrary\src\main\AndroidManifest.xml:13:22-68
+uses-permission#android.permission.SEND_SMS
+ADDED from E:\workspace_react\tb_app_v2\android\Lancelibrary\src\main\AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from E:\workspace_react\tb_app_v2\android\Lancelibrary\src\main\AndroidManifest.xml:14:22-64
+application
+ADDED from E:\workspace_react\tb_app_v2\android\Lancelibrary\src\main\AndroidManifest.xml:16:5-26:19
+activity#com.lance.library.activity.PhotoPickerActivity
+ADDED from E:\workspace_react\tb_app_v2\android\Lancelibrary\src\main\AndroidManifest.xml:18:9-20:52
+	android:screenOrientation
+		ADDED from E:\workspace_react\tb_app_v2\android\Lancelibrary\src\main\AndroidManifest.xml:20:13-49
+	android:name
+		ADDED from E:\workspace_react\tb_app_v2\android\Lancelibrary\src\main\AndroidManifest.xml:19:13-74
+activity#com.lance.library.activity.ShowPicActivity
+ADDED from E:\workspace_react\tb_app_v2\android\Lancelibrary\src\main\AndroidManifest.xml:22:9-24:52
+	android:screenOrientation
+		ADDED from E:\workspace_react\tb_app_v2\android\Lancelibrary\src\main\AndroidManifest.xml:24:13-49
+	android:name
+		ADDED from E:\workspace_react\tb_app_v2\android\Lancelibrary\src\main\AndroidManifest.xml:23:13-70
+uses-sdk
+INJECTED from E:\workspace_react\tb_app_v2\android\Lancelibrary\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\workspace_react\tb_app_v2\android\Lancelibrary\src\main\AndroidManifest.xml
+INJECTED from E:\workspace_react\tb_app_v2\android\Lancelibrary\src\main\AndroidManifest.xml
+INJECTED from E:\workspace_react\tb_app_v2\android\Lancelibrary\src\main\AndroidManifest.xml
+INJECTED from E:\workspace_react\tb_app_v2\android\Lancelibrary\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\workspace_react\tb_app_v2\android\Lancelibrary\src\main\AndroidManifest.xml
+		ADDED from E:\workspace_react\tb_app_v2\android\Lancelibrary\src\main\AndroidManifest.xml
+		INJECTED from E:\workspace_react\tb_app_v2\android\Lancelibrary\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\workspace_react\tb_app_v2\android\Lancelibrary\src\main\AndroidManifest.xml
+		ADDED from E:\workspace_react\tb_app_v2\android\Lancelibrary\src\main\AndroidManifest.xml
+		INJECTED from E:\workspace_react\tb_app_v2\android\Lancelibrary\src\main\AndroidManifest.xml
